@@ -1,4 +1,4 @@
-# Unsupervised_Machine_Learning_Model
+# OKCupid Matchmaker 
 
 **Project Background:**
 Launched in 2004, OkCupid pioneered inclusivity and a unique question-based matchmaking approach. Its signature feature is a match percentage algorithm leveraging user responses.  This project aims to refine this system by delving deeper into user data.
